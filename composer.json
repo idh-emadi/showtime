@@ -1,5 +1,5 @@
 {
-    "name": "vendor/showtime",
+    "name": "reza/showtime",
     "description": "this package show current time",
     "type": "library",
     "license": "GPL",
