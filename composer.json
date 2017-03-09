@@ -9,7 +9,7 @@
             "email": "ge@greyd.solutions"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "stable",
     "require": {},
 
     "autoload": {
